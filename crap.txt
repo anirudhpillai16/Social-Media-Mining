@@ -1,0 +1,15 @@
+
+1. Preorder_traversal(struct Node *root)
+// base condition for recursion
+// if tree/sub-tree is empty, return and exit
+2. if(root == NULL) return
+3 Print data present in root
+4. Preorder_traversal(root->left)     // Visit left subtree
+5. Preorder_traversal(root->right)    // Visit right subtree
+
+1. Postorder_traversal(Node *root) 
+2. if(root == NULL) return;
+3. Postorder_traversal(root->left)    // Visit left subtree
+4. Postorder_traversal(root->right)   // Visit right subtree
+5. Print data present in root
+

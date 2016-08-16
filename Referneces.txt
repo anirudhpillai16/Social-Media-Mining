@@ -1,0 +1,48 @@
+
+
+References
+1. J. Hannon, K. McCarthy, J. Lynch, and B. Smyth,
+"Personalized and automatic social summarization of
+events in video," in Proc. ACM IUI, 2011.
+2. D. Chakrabarti and K. Punera, "Event Summarization
+using Tweets," in Proc. AAAI ICWSM, 2011.
+3. J. Bollen, A. Pepe, and H. Mao, "Modeling public
+mood and emotion: Twitter sentiment and socioeconomic
+phenomena," in Proc. AAAI ICWSM, 2011.
+4. L. Barbosa and J. Feng, "Robust Sentiment Detection
+on Twitter from Biased  and Noisy Data," in Proc.
+ACM COLING, 2010
+5. Paul Ekman's An Argument for Emotion, University of California
+San Francisco, U.S.A
+6. Saif M. Mohammad and Peter D. Turney Crowdsourcing a Word–Emotion Association Lexicon
+Saif M. Mohammad and Peter D. Turney Institute for Information Technology, National Research Council Canada.Ottawa, Ontario, Canada, K1A 0R6
+7.Mishne, G., Glance, N.: Predicting Movie Sales from Blogger Sentiment. In: AAAI 2006
+Spring Symposium on Computational Approaches to Analysing Weblogs (2006)
+8.Saima Aman and Stan Szpakowicz, Identifying Expressions of Emotion in Text ,1 School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada 2 Institute of Computer Science, Polish Academy of Sciences, Warszawa, Poland
+9.M. Hu and B. Liu, "Mining and summarizing customer
+reviews," in Proc. ACM SIGKDD, 2004.
+10.B. Pang, L. Lee, and S. Vaithyanathan, "Thumbs
+up?: sentiment classification using machine learning
+techniques," in Proc. ACM EMNLP ACL-02 Volume
+10, 2002.
+11.L. Zhuang, F. Jing, and X.-Y. Zhu, "Movie review
+mining and summarization," in Proc. ACM CIKM,
+2006
+12.B. J. Jansen, M. Zhang, K. Sobel, and A. Chowdury,
+"Twitter power: Tweets as electronic word of
+mouth," Journal of the American Society for Information
+Science and Technology, vol. 60, pp. 2169-
+2188, 2009.
+13. Unsupervised Modeling of Twitter Conversations
+Ritter, Alan; Cherry, Colin; Dolan, Bill
+14.Muhammad Abdul-Mageed and Mona T. Diab, Subjectivity and Sentiment Annotation of Modern Standard Arabic
+Newswire
+15. GOAALLL!: Using Sentiment in the World Cup to
+Explore Theories of Emotion by Jonathan Gratch, 1 Gale Lucas, 1 Nikolaos Malandrakis, 2 Evan Szablowski, 3 Eli Fessler4
+ and Jeffrey Nichols
+16. Analyzing Twitter for Social TV: Sentiment Extraction for Sports by Siqi Zhao and Lin Zhong and Jehan Wickramasuriya and Venu Vasudevan.
+17. https://blog.twitter.com/2015/the-2015-yearontwitter-in-india-in
+18. http://www.sporttechie.com/2015/02/19/twitters-strategy-to-capitalize-on-the-cricket-world-cup/
+19. http://www.livemint.com/Consumer/530pe30yF3C56xPJEIEUMM/Cricket-on-Twitter-is-being-driven-globally-from-India-Kati.html
+20. http://www.oceanofweb.com/cricket/ipl-indian-premier-league.html
+21. http://www.sporttechie.com/2015/02/19/twitters-strategy-to-capitalize-on-the-cricket-world-cup/
